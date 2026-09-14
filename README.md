@@ -12,13 +12,7 @@
   点击反馈：命中获胜、邻近提示、未命中。
 - Auto‑reveal mole position when out of attempts.
   机会用尽自动公布地鼠位置。
-- One‑click restart, no third‑party packages required.
-  一键重开，无需安装第三方库，使用Python内置库。
 
 ## ⚙️ Environment｜运行环境
 - Python ≥3.8
 - Tkinter (Built‑in in Python)
-
-## 🚀 How to run｜运行方式
-```bash
-python main.py
